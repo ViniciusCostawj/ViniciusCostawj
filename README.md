@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I’m Vinicius Costa, estou em busca de oportunidades na area de progração</div>  
   
 - 👋 Hi, I’m Vinicius Costa
 - 👀 I’m interested in aprender programacao 
