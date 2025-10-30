@@ -3,7 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/ViniciusCostawj?label=Seguidores&style=social)](https://github.com/ViniciusCostawj)
 
 ## 🚀 Sobre mim  
-Sou estudante de Ciência da Computação, entusiasta por tecnologia e desenvolvimento de software. Tenho experiência em banco de dados, aplicações web, automação e segurança da informação. Busco aprender continuamente, colaborar em projetos e evoluir sempre.
+Sou formado em Ciência da Computação, entusiasta por tecnologia e desenvolvimento de software. Tenho experiência em banco de dados, aplicações web, automação e segurança da informação. Busco aprender continuamente, colaborar em projetos e evoluir sempre.
 
 ## 🛠️ Tecnologias & Ferramentas  
 **Linguagens:** Python · C · Java · JavaScript · C# · HTML · CSS  
@@ -15,14 +15,13 @@ Sou estudante de Ciência da Computação, entusiasta por tecnologia e desenvolv
 - **Sistema CRUD ASP.NET Core + PostgreSQL**: Autenticação de usuário, backend + front para WSL.  
 - **Scripts em Python**: Backup, monitoramento de logs, análise de tempos de resposta, extração de dados.
 
-## 🌱 O que estou aprendendo  
-- Golang (Go)  
+## 🌱 O que estou aprendendo    
 - Arquitetura de microsserviços  
 - Melhorias em segurança de APIs  
 - DevOps avançado e automação
 
 ## 📫 Como me encontrar  
-📧 Email profissional: v.p.costa@uni9.edu.br  
+📧 Email profissional: viniciuscostawj@gmail.com 
 💬 WhatsApp: +55 (11) 9 4178-8136  
 🔗 LinkedIn: [Vinicius Costa](https://www.linkedin.com/in/vinicius-costa-20a196214)
 
