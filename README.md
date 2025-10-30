@@ -12,8 +12,9 @@ Sou formado em Ciência da Computação, entusiasta por tecnologia e desenvolvim
 
 ## 📌 Projetos em destaque  
 - **Legado-Banco-Bacen**: API com FastAPI para integração com SPI & DICT do Banco Central — autenticação mTLS, assinatura XMLDSig e envio de PIX.  
-- **Sistema CRUD ASP.NET Core + PostgreSQL**: Autenticação de usuário, backend + front para WSL.  
+- **Sistema CRUD + SQLITE*: Autenticação de usuário, backend + front para WSL.  
 - **Scripts em Python**: Backup, monitoramento de logs, análise de tempos de resposta, extração de dados.
+- **Assistente pessoal em Python: MQQT,python3, aprendizado com testes.
 
 ## 🌱 O que estou aprendendo    
 - Arquitetura de microsserviços  
