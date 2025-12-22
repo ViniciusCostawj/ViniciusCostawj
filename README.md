@@ -1,34 +1,63 @@
-# 🧑‍💻 Vinicius Costa  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ViniciusCosta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-costa-20a196214)  
+# 🧑‍💻 Vinicius Costa
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ViniciusCosta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-costa-20a196214)
 [![GitHub Followers](https://img.shields.io/github/followers/ViniciusCostawj?label=Seguidores&style=social)](https://github.com/ViniciusCostawj)
 
-## 🚀 Sobre mim  
-Sou formado em Ciência da Computação, entusiasta por tecnologia e desenvolvimento de software. Tenho experiência em banco de dados, aplicações web, automação e segurança da informação. Busco aprender continuamente, colaborar em projetos e evoluir sempre.
+## 🚀 Sobre mim
+Cientista da Computação e Desenvolvedor focado em **Engenharia de IA**, **Automação de Processos** e **Back-end**. 
 
-## 🛠️ Tecnologias & Ferramentas  
-**Linguagens:** Python · C · Java · JavaScript · C# · HTML · CSS  
-**Banco de Dados / Infraestrutura:** PostgreSQL · Ceph · Nginx · DevOps (CI/CD)  
-**Outros:** Git & GitHub · IoT · Testes de Software · Segurança da Informação · XML · APIs REST
-
-## 📌 Projetos em destaque  
-- **Legado-Banco-Bacen**: API com FastAPI para integração com SPI & DICT do Banco Central — autenticação mTLS, assinatura XMLDSig e envio de PIX.  
-- **Sistema CRUD + SQLITE*: Autenticação de usuário, backend + front para WSL.  
-- **Scripts em Python**: Backup, monitoramento de logs, análise de tempos de resposta, extração de dados.
-- **Assistente pessoal em Python: MQQT,python3, aprendizado com testes.
-
-## 🌱 O que estou aprendendo    
-- Arquitetura de microsserviços  
-- Melhorias em segurança de APIs  
-- DevOps avançado e automação
-
-## 📫 Como me encontrar  
-📧 Email profissional: viniciuscostawj@gmail.com 
-💬 WhatsApp: +55 (11) 9 4178-8136  
-🔗 LinkedIn: [Vinicius Costa](https://www.linkedin.com/in/vinicius-costa-20a196214)
+Especializado na construção de **Agentes Autônomos** e pipelines de dados inteligentes. Tenho experiência sólida em integrar LLMs (Llama 3, OpenAI) com bancos de dados corporativos (**Text-to-SQL**) e otimizar rotinas financeiras críticas (ETL, API PIX), sempre prezando por inovação e código limpo.
 
 ---
 
-> “Estou sempre em evolução e aberto a colaborações em projetos que envolvam aprendizado e programação.”
+## 🛠️ Tecnologias & Ferramentas
 
-Obrigado por visitar o meu perfil!  
-🔍 Explore meus projetos, dê um ⭐️, e se quiser colaborar ou trocar ideias, fique à vontade para conectar.  
+### 🤖 Inteligência Artificial & Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Llama3-000000?style=flat&logo=ollama&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+### 💻 Back-end & Web
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+### ⚙️ Infra & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🧠 [Agente IA: Analista SQL & Fluxos](https://github.com/ViniciusCostawj)
+> **Stack:** LangChain, Llama 3 (Ollama), Python, PostgreSQL
+* Agente autônomo capaz de converter perguntas em linguagem natural para SQL (**Text-to-SQL**).
+* Realiza investigações automáticas de logs e gera diagramas de fluxo com **Mermaid.js**.
+
+### 📊 [Plataforma de Monitoramento SPB (Full Stack)](https://github.com/ViniciusCostawj)
+> **Stack:** Flask (Python), React.js, SQL Avançado
+* Evolução de scripts de backup para uma plataforma web completa.
+* Centraliza consultas de 5 tabelas do ecossistema Bacen e calcula latência de operações em tempo real.
+
+### 💸 [API SPI & DICT (PIX)](https://github.com/ViniciusCostawj/Legado-banco-bacen)
+> **Stack:** FastAPI, Cryptography, XMLDSig, mTLS
+* API robusta para integração com o Banco Central.
+* Implementa padrões rígidos de segurança bancária, incluindo assinatura digital de mensagens XML (`pacs.008`).
+
+---
+
+## 🌱 O que estou aprendendo
+- 🧠 Arquiteturas avançadas de RAG (Retrieval-Augmented Generation)
+- 🐳 Containerização e Orquestração (Docker & Kubernetes)
+- ☁️ Deploy de modelos de IA em Nuvem
+
+## 📫 Contato
+📧 **Email:** viniciuscostawj@gmail.com
+🔗 **LinkedIn:** [Vinicius Costa](https://www.linkedin.com/in/vinicius-costa-20a196214)
+
+---
+> *“Transformando dados em decisões inteligentes através de código e automação.”*
