@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 Cientista da Computação e Desenvolvedor focado em **Engenharia de IA**, **Automação de Processos** e **Back-end**. 
 
-Especializado na construção de **Agentes Autônomos** e pipelines de dados inteligentes. Tenho experiência sólida em integrar LLMs (Llama 3, OpenAI) com bancos de dados corporativos (**Text-to-SQL**) e otimizar rotinas financeiras críticas (ETL, API PIX), sempre prezando por inovação e código limpo.
+Especializado na construção de **Agentes Autônomos** e pipelines de dados inteligentes. Tenho experiência sólida em integrar LLMs (Llama 3, OpenAI) com bancos de dados corporativos (**Text-to-SQL**) e otimizar rotinas financeiras críticas (ETL, API PIX), sempre prezando por inovação, segurança e código limpo.
 
 ---
 
@@ -14,7 +14,9 @@ Especializado na construção de **Agentes Autônomos** e pipelines de dados int
 ### 🤖 Inteligência Artificial & Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Llama3-000000?style=flat&logo=ollama&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat&logo=qdrant&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
@@ -32,6 +34,12 @@ Especializado na construção de **Agentes Autônomos** e pipelines de dados int
 ---
 
 ## 📌 Projetos em Destaque
+
+### 🤖 [A.L.A.N. - Agente Lógico de Análise e Normatização](https://github.com/ViniciusCostawj/-A.L.A.N-i)
+> **Stack:** LangGraph, FastAPI, Qdrant (Vector DB), Ollama (Llama 3), Docker
+* Ecossistema Multi-Agente 100% On-Premise focado no setor financeiro e em sustentação de infraestrutura.
+* Implementa pipelines de RAG avançado para consultas precisas em manuais do BACEN, eliminando alucinações.
+* Arquitetura resiliente com políticas de SRE (Log Rotation, Resource Quotas) via Docker Compose e interface ágil via Telegram Bot API.
 
 ### 🧠 [Agente IA: Analista SQL & Fluxos](https://github.com/ViniciusCostawj)
 > **Stack:** LangChain, Llama 3 (Ollama), Python, PostgreSQL
@@ -51,9 +59,9 @@ Especializado na construção de **Agentes Autônomos** e pipelines de dados int
 ---
 
 ## 🌱 O que estou aprendendo
-- 🧠 Arquiteturas avançadas de RAG (Retrieval-Augmented Generation)
+- ☁️ Arquitetura Cloud para IA (AWS, OpenSearch, Bedrock)
+- 📊 Observabilidade de LLMs e FinOps (LangFuse)
 - 🐳 Containerização e Orquestração (Docker & Kubernetes)
-- ☁️ Deploy de modelos de IA em Nuvem
 
 ## 📫 Contato
 📧 **Email:** viniciuscostawj@gmail.com
