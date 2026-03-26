@@ -1,5 +1,5 @@
 # 👋 Vinicius Costa
-### AI Engineer | Multi-Agent Systems Architect | RAG & Vector DB Specialist
+### Engenheiro de IA | Arquiteto de Sistemas Multi-Agentes | Especialista em RAG & Vector DBs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-costa-20a196214/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscostawj@gmail.com)
@@ -7,23 +7,23 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 Sobre Mim
 
-AI Engineer specializing in **Autonomous Multi-Agent Systems** and **mission-critical backend infrastructure**. I build production-grade GenAI solutions that solve real-world problems in highly regulated environments (finance, payments).
+Engenheiro de IA especializado em **Sistemas Multi-Agentes Autônomos** e **infraestrutura backend de alta criticidade**. Construo soluções de IA Generativa em produção que resolvem problemas reais em ambientes altamente regulados (finanças, pagamentos).
 
-**Core Expertise:**
-- 🤖 **Agentic AI**: LangGraph orchestration, self-correction loops, state management
-- 🧠 **Advanced RAG**: Vector DBs (Qdrant), multimodal data ingestion, semantic search
-- 🏗️ **System Architecture**: Docker-based deployment, local LLMs (Llama 3), API design (FastAPI)
-- 💰 **Domain**: Financial automation, Brazilian Payment System (SPB/Pix), forensic data analysis
+**Principais Expertises:**
+- 🤖 **IA Agêntica**: Orquestração com LangGraph, loops de auto-correção, gerenciamento de estado
+- 🧠 **RAG Avançado**: Vector DBs (Qdrant), ingestão multimodal de dados, busca semântica
+- 🏗️ **Arquitetura de Sistemas**: Deploy com Docker, LLMs locais (Llama 3), design de APIs (FastAPI)
+- 💰 **Domínio**: Automação financeira, Sistema de Pagamentos Brasileiro (SPB/Pix), análise forense de dados
 
-Currently working on autonomous AI agents for regulatory compliance and operational intelligence in banking systems.
+Atualmente trabalhando em agentes de IA autônomos para conformidade regulatória e inteligência operacional em sistemas bancários.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológica
 
-### AI & ML Engineering
+### Engenharia de IA & ML
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llama&logoColor=white)
@@ -31,7 +31,7 @@ Currently working on autonomous AI agents for regulatory compliance and operatio
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### Backend & Infrastructure
+### Backend & Infraestrutura
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -39,107 +39,107 @@ Currently working on autonomous AI agents for regulatory compliance and operatio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Specialized Skills
-- **Text-to-SQL**: Natural language → SQL query generation with LLMs
-- **API Security**: mTLS authentication, XMLDSig digital signatures
-- **ETL Pipelines**: Complex data transformation for legacy financial systems
-- **Prompt Engineering**: Production-grade system prompts, few-shot learning
-- **Vector Search**: Semantic retrieval, embedding optimization (BGE-M3)
+### Habilidades Especializadas
+- **Text-to-SQL**: Geração de queries SQL a partir de linguagem natural com LLMs
+- **Segurança de APIs**: Autenticação mTLS, assinaturas digitais XMLDSig
+- **Pipelines ETL**: Transformação complexa de dados para sistemas financeiros legados
+- **Engenharia de Prompts**: Prompts de sistema production-grade, few-shot learning
+- **Busca Vetorial**: Recuperação semântica, otimização de embeddings (BGE-M3)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
-### 🤖 [A.L.A.N. v2.0 - Autonomous Regulatory Analysis Agent](https://github.com/ViniciusCostawj/-A.L.A.N-i)
-**Multi-Agent System for Financial Compliance & Forensic Analysis**
+### 🤖 [A.L.A.N. v2.0 - Agente Autônomo de Análise Regulatória](https://github.com/ViniciusCostawj/-A.L.A.N-i)
+**Sistema Multi-Agente para Conformidade Financeira & Análise Forense**
 
-- **Architecture**: LangGraph-based orchestration with 3 specialized agents (Researcher, Writer, Critic)
-- **Self-Correction Loop**: Autonomous quality control where Critic agent enforces technical standards
-- **Advanced RAG**: Custom parsers for regulatory PDFs, error CSVs, and legacy XSD schemas (Bacen)
-- **Vector DB**: Qdrant for high-precision semantic search using BGE-M3 embeddings
-- **Privacy-First**: 100% on-premise deployment with local Llama 3 via Ollama
+- **Arquitetura**: Orquestração baseada em LangGraph com 3 agentes especializados (Pesquisador, Redator, Crítico)
+- **Loop de Auto-Correção**: Controle de qualidade autônomo onde o agente Crítico impõe padrões técnicos
+- **RAG Avançado**: Parsers customizados para PDFs regulatórios, CSVs de erro e schemas XSD legados (Bacen)
+- **Vector DB**: Qdrant para busca semântica de alta precisão usando embeddings BGE-M3
+- **Privacy-First**: Deploy 100% on-premise com Llama 3 local via Ollama
 - **Stack**: LangGraph, FastAPI, Qdrant, Docker, Ollama
 
-**Impact**: Automated forensic analysis previously requiring 4-6 hours of manual work.
+**Impacto**: Automatizou análise forense que anteriormente requeria 4-6 horas de trabalho manual.
 
 ---
 
-### 🧠 [SQL Agent - Natural Language Database Assistant](https://github.com/ViniciusCostawj)
-**Text-to-SQL Agent with Auto-Investigation Capabilities**
+### 🧠 [Agente SQL - Assistente de Banco de Dados em Linguagem Natural](https://github.com/ViniciusCostawj)
+**Agente Text-to-SQL com Capacidades de Auto-Investigação**
 
-- Converts natural language questions to SQL queries (Text-to-SQL)
-- Autonomous log investigation and Mermaid.js flow diagram generation
+- Converte perguntas em linguagem natural para queries SQL (Text-to-SQL)
+- Investigação autônoma de logs e geração de diagramas de fluxo com Mermaid.js
 - **Stack**: LangChain, Llama 3 (Ollama), PostgreSQL
 
 ---
 
-### 📊 [SPB Monitoring Platform (Full Stack)](https://github.com/ViniciusCostawj)
-**Real-Time Transaction Tracking for Brazilian Payment System**
+### 📊 [Plataforma de Monitoramento SPB (Full Stack)](https://github.com/ViniciusCostawj)
+**Rastreamento em Tempo Real de Transações no Sistema de Pagamentos Brasileiro**
 
-- Centralized log aggregation from 5 Bacen ecosystem tables
-- Real-time latency calculation and SLA monitoring
-- **Stack**: Flask (Python), React.js, Advanced SQL (CTEs, UNION ALL)
+- Agregação centralizada de logs de 5 tabelas do ecossistema Bacen
+- Cálculo de latência em tempo real e monitoramento de SLA
+- **Stack**: Flask (Python), React.js, SQL Avançado (CTEs, UNION ALL)
 
-**Impact**: Replaced manual spreadsheet tracking, reduced incident response time by 70%.
-
----
-
-### 💸 [SPI & DICT API (Pix Integration)](https://github.com/ViniciusCostawj/Legado-banco-bacen)
-**Secure Banking API for Central Bank Integration**
-
-- mTLS mutual authentication for bank-grade security
-- XMLDSig digital signature for pacs.008 messages
-- **Stack**: FastAPI, Cryptography, XML Processing
+**Impacto**: Substituiu rastreamento manual em planilhas, reduzindo tempo de resposta a incidentes em 70%.
 
 ---
 
-## 📈 GitHub Stats
+### 💸 [API SPI & DICT (Integração Pix)](https://github.com/ViniciusCostawj/Legado-banco-bacen)
+**API Bancária Segura para Integração com Banco Central**
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCostawj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCostawj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
-## 🌱 Currently Learning
-
-- ☁️ Cloud-native AI architecture (AWS Bedrock, OpenSearch)
-- 📊 LLM Observability & FinOps (LangFuse, Weights & Biases)
-- 🎯 Advanced prompt optimization techniques
-- 🐳 Kubernetes for AI workload orchestration
+- Autenticação mútua mTLS para segurança de nível bancário
+- Assinatura digital XMLDSig para mensagens pacs.008
+- **Stack**: FastAPI, Cryptography, Processamento XML
 
 ---
 
-## 💼 Professional Experience
+## 📈 Estatísticas GitHub
 
-**Software Engineer @ C&M Software** _(Mar 2022 - Present)_
-- Developed mission-critical Python automation for SPB/Pix ecosystem monitoring
-- Built RESTful APIs (Flask/FastAPI) integrating legacy systems with modern observability platforms
-- Optimized complex SQL queries for real-time transactional analysis
-- Transformed manual operational processes into efficient ETL pipelines
+![Estatísticas GitHub do Vinicius](https://github-readme-stats.vercel.app/api?username=ViniciusCostawj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&locale=pt-br)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCostawj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&locale=pt-br)
 
 ---
 
-## 🎓 Education
+## 🌱 Atualmente Aprendendo
 
-**Bachelor's in Computer Science** - UNINOVE  
-_Expected Graduation: July 2025_
+- ☁️ Arquitetura de IA nativa em nuvem (AWS Bedrock, OpenSearch)
+- 📊 Observabilidade de LLMs & FinOps (LangFuse, Weights & Biases)
+- 🎯 Técnicas avançadas de otimização de prompts
+- 🐳 Kubernetes para orquestração de cargas de trabalho de IA
 
 ---
 
-## 📫 Let's Connect
+## 💼 Experiência Profissional
+
+**Engenheiro de Software @ C&M Software** _(Mar 2022 - Presente)_
+- Desenvolvi automação crítica em Python para monitoramento do ecossistema SPB/Pix
+- Construí APIs RESTful (Flask/FastAPI) integrando sistemas legados com plataformas modernas de observabilidade
+- Otimizei queries SQL complexas para análise transacional em tempo real
+- Transformei processos operacionais manuais em pipelines ETL eficientes
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Ciência da Computação** - UNINOVE  
+_Previsão de Conclusão: Julho 2025_
+
+---
+
+## 📫 Vamos Conectar
 
 - 💼 **LinkedIn**: [linkedin.com/in/vinicius-costa-20a196214](https://www.linkedin.com/in/vinicius-costa-20a196214/)
 - 📧 **Email**: viniciuscostawj@gmail.com
-- 📍 **Location**: Barueri, São Paulo, Brazil
-- 🌐 **Portfolio**: [viniciuscostawj.github.io](https://viniciuscostawj.github.io)
+- 📍 **Localização**: Barueri, São Paulo, Brasil
+- 🌐 **Portfólio**: [viniciuscostawj.github.io](https://viniciuscostawj.github.io)
 
 ---
 
 <div align="center">
 
-### *"Building intelligent systems that bridge the gap between AI capabilities and real-world business problems"*
+### *"Construindo sistemas inteligentes que conectam capacidades de IA com problemas reais de negócio"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=ViniciusCostawj&color=blue&style=flat)
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=ViniciusCostawj&color=blue&style=flat&label=Visitantes)
 
 </div>
