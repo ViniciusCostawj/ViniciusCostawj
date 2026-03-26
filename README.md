@@ -153,6 +153,4 @@ _Previsão de Conclusão: Julho 2025_
 
 ### *"Construindo sistemas inteligentes que conectam capacidades de IA com problemas reais de negócio"*
 
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=ViniciusCostawj&color=blue&style=flat&label=Visitantes)
-
 </div>
