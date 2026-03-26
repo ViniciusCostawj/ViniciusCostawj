@@ -95,9 +95,22 @@ Atualmente trabalhando em agentes de IA autônomos para conformidade regulatóri
 
 ## 📈 Estatísticas GitHub
 
-![Estatísticas GitHub do Vinicius](https://github-readme-stats.vercel.app/api?username=ViniciusCostawj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&locale=pt-br)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCostawj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCostawj&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
+</div>
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCostawj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&locale=pt-br)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusCostawj&theme=tokyonight&locale=pt-br" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ViniciusCostawj&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus GitHub"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusCostawj&theme=tokyo-night&hide_border=true&locale=pt" alt="Contribution Graph"/>
+</div>
 
 ---
 
