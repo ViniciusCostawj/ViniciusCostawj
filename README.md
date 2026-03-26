@@ -1,71 +1,145 @@
-# 🧑‍💻 Vinicius Costa
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ViniciusCosta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-costa-20a196214)
-[![GitHub Followers](https://img.shields.io/github/followers/ViniciusCostawj?label=Seguidores&style=social)](https://github.com/ViniciusCostawj)
+# 👋 Vinicius Costa
+### AI Engineer | Multi-Agent Systems Architect | RAG & Vector DB Specialist
 
-## 🚀 Sobre mim
-Cientista da Computação e Desenvolvedor focado em **Engenharia de IA**, **Automação de Processos** e **Back-end**. 
-
-Especializado na construção de **Agentes Autônomos** e pipelines de dados inteligentes. Tenho experiência sólida em integrar LLMs (Llama 3, OpenAI) com bancos de dados corporativos (**Text-to-SQL**) e otimizar rotinas financeiras críticas (ETL, API PIX), sempre prezando por inovação, segurança e código limpo.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-costa-20a196214/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscostawj@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://viniciuscostawj.github.io)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🎯 About Me
 
-### 🤖 Inteligência Artificial & Dados
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+AI Engineer specializing in **Autonomous Multi-Agent Systems** and **mission-critical backend infrastructure**. I build production-grade GenAI solutions that solve real-world problems in highly regulated environments (finance, payments).
+
+**Core Expertise:**
+- 🤖 **Agentic AI**: LangGraph orchestration, self-correction loops, state management
+- 🧠 **Advanced RAG**: Vector DBs (Qdrant), multimodal data ingestion, semantic search
+- 🏗️ **System Architecture**: Docker-based deployment, local LLMs (Llama 3), API design (FastAPI)
+- 💰 **Domain**: Financial automation, Brazilian Payment System (SPB/Pix), forensic data analysis
+
+Currently working on autonomous AI agents for regulatory compliance and operational intelligence in banking systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & ML Engineering
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llama&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat&logo=qdrant&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### 💻 Back-end & Web
+### Backend & Infrastructure
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-
-### ⚙️ Infra & Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Specialized Skills
+- **Text-to-SQL**: Natural language → SQL query generation with LLMs
+- **API Security**: mTLS authentication, XMLDSig digital signatures
+- **ETL Pipelines**: Complex data transformation for legacy financial systems
+- **Prompt Engineering**: Production-grade system prompts, few-shot learning
+- **Vector Search**: Semantic retrieval, embedding optimization (BGE-M3)
 
 ---
 
-## 📌 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 🤖 [A.L.A.N. - Agente Lógico de Análise e Normatização](https://github.com/ViniciusCostawj/-A.L.A.N-i)
-> **Stack:** LangGraph, FastAPI, Qdrant (Vector DB), Ollama (Llama 3), Docker
-* Ecossistema Multi-Agente 100% On-Premise focado no setor financeiro e em sustentação de infraestrutura.
-* Implementa pipelines de RAG avançado para consultas precisas em manuais do BACEN, eliminando alucinações.
-* Arquitetura resiliente com políticas de SRE (Log Rotation, Resource Quotas) via Docker Compose e interface ágil via Telegram Bot API.
+### 🤖 [A.L.A.N. v2.0 - Autonomous Regulatory Analysis Agent](https://github.com/ViniciusCostawj/-A.L.A.N-i)
+**Multi-Agent System for Financial Compliance & Forensic Analysis**
 
-### 🧠 [Agente IA: Analista SQL & Fluxos](https://github.com/ViniciusCostawj)
-> **Stack:** LangChain, Llama 3 (Ollama), Python, PostgreSQL
-* Agente autônomo capaz de converter perguntas em linguagem natural para SQL (**Text-to-SQL**).
-* Realiza investigações automáticas de logs e gera diagramas de fluxo com **Mermaid.js**.
+- **Architecture**: LangGraph-based orchestration with 3 specialized agents (Researcher, Writer, Critic)
+- **Self-Correction Loop**: Autonomous quality control where Critic agent enforces technical standards
+- **Advanced RAG**: Custom parsers for regulatory PDFs, error CSVs, and legacy XSD schemas (Bacen)
+- **Vector DB**: Qdrant for high-precision semantic search using BGE-M3 embeddings
+- **Privacy-First**: 100% on-premise deployment with local Llama 3 via Ollama
+- **Stack**: LangGraph, FastAPI, Qdrant, Docker, Ollama
 
-### 📊 [Plataforma de Monitoramento SPB (Full Stack)](https://github.com/ViniciusCostawj)
-> **Stack:** Flask (Python), React.js, SQL Avançado
-* Evolução de scripts de backup para uma plataforma web completa.
-* Centraliza consultas de 5 tabelas do ecossistema Bacen e calcula latência de operações em tempo real.
-
-### 💸 [API SPI & DICT (PIX)](https://github.com/ViniciusCostawj/Legado-banco-bacen)
-> **Stack:** FastAPI, Cryptography, XMLDSig, mTLS
-* API robusta para integração com o Banco Central.
-* Implementa padrões rígidos de segurança bancária, incluindo assinatura digital de mensagens XML (`pacs.008`).
+**Impact**: Automated forensic analysis previously requiring 4-6 hours of manual work.
 
 ---
 
-## 🌱 O que estou aprendendo
-- ☁️ Arquitetura Cloud para IA (AWS, OpenSearch, Bedrock)
-- 📊 Observabilidade de LLMs e FinOps (LangFuse)
-- 🐳 Containerização e Orquestração (Docker & Kubernetes)
+### 🧠 [SQL Agent - Natural Language Database Assistant](https://github.com/ViniciusCostawj)
+**Text-to-SQL Agent with Auto-Investigation Capabilities**
 
-## 📫 Contato
-📧 **Email:** viniciuscostawj@gmail.com
-🔗 **LinkedIn:** [Vinicius Costa](https://www.linkedin.com/in/vinicius-costa-20a196214)
+- Converts natural language questions to SQL queries (Text-to-SQL)
+- Autonomous log investigation and Mermaid.js flow diagram generation
+- **Stack**: LangChain, Llama 3 (Ollama), PostgreSQL
 
 ---
-> *“Transformando dados em decisões inteligentes através de código e automação.”*
+
+### 📊 [SPB Monitoring Platform (Full Stack)](https://github.com/ViniciusCostawj)
+**Real-Time Transaction Tracking for Brazilian Payment System**
+
+- Centralized log aggregation from 5 Bacen ecosystem tables
+- Real-time latency calculation and SLA monitoring
+- **Stack**: Flask (Python), React.js, Advanced SQL (CTEs, UNION ALL)
+
+**Impact**: Replaced manual spreadsheet tracking, reduced incident response time by 70%.
+
+---
+
+### 💸 [SPI & DICT API (Pix Integration)](https://github.com/ViniciusCostawj/Legado-banco-bacen)
+**Secure Banking API for Central Bank Integration**
+
+- mTLS mutual authentication for bank-grade security
+- XMLDSig digital signature for pacs.008 messages
+- **Stack**: FastAPI, Cryptography, XML Processing
+
+---
+
+## 📈 GitHub Stats
+
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCostawj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCostawj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+---
+
+## 🌱 Currently Learning
+
+- ☁️ Cloud-native AI architecture (AWS Bedrock, OpenSearch)
+- 📊 LLM Observability & FinOps (LangFuse, Weights & Biases)
+- 🎯 Advanced prompt optimization techniques
+- 🐳 Kubernetes for AI workload orchestration
+
+---
+
+## 💼 Professional Experience
+
+**Software Engineer @ C&M Software** _(Mar 2022 - Present)_
+- Developed mission-critical Python automation for SPB/Pix ecosystem monitoring
+- Built RESTful APIs (Flask/FastAPI) integrating legacy systems with modern observability platforms
+- Optimized complex SQL queries for real-time transactional analysis
+- Transformed manual operational processes into efficient ETL pipelines
+
+---
+
+## 🎓 Education
+
+**Bachelor's in Computer Science** - UNINOVE  
+_Expected Graduation: July 2025_
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn**: [linkedin.com/in/vinicius-costa-20a196214](https://www.linkedin.com/in/vinicius-costa-20a196214/)
+- 📧 **Email**: viniciuscostawj@gmail.com
+- 📍 **Location**: Barueri, São Paulo, Brazil
+- 🌐 **Portfolio**: [viniciuscostawj.github.io](https://viniciuscostawj.github.io)
+
+---
+
+<div align="center">
+
+### *"Building intelligent systems that bridge the gap between AI capabilities and real-world business problems"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ViniciusCostawj&color=blue&style=flat)
+
+</div>
